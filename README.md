@@ -1,6 +1,6 @@
-# Jorge Rojas - Software Engineer based in Spain (from Mexico).
+# Jorge Rojas - Software Engineer (Senior Frontend Engineer at [Little Emperors](https://littleemperors.com))
 
-Astro · React · Next.js · TypeScript · Tailwind
+Astro · React · Next.js · TypeScript · Tailwind 
 
 **Little Emperors** (now) — **Galileo / Ben & Frank** (2022–2025) — **Viaducto** (2020–2022)
 
